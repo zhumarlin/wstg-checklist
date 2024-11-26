@@ -1,0 +1,330 @@
+[
+    {
+        "ID":"MASTG-TEST-0052",
+        "Title":"Testing Local Data Storage",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-STORAGE-1",
+        "MASVS v1 IDs":"MSTG-STORAGE-1MSTG-STORAGE-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-STORAGE\/MASTG-TEST-0052\/"
+    },
+    {
+        "ID":"MASTG-TEST-0053",
+        "Title":"Checking Logs for Sensitive Data",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-STORAGE\/MASTG-TEST-0053\/"
+    },
+    {
+        "ID":"MASTG-TEST-0054",
+        "Title":"Determining Whether Sensitive Data Is Shared with Third Parties",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-STORAGE\/MASTG-TEST-0054\/"
+    },
+    {
+        "ID":"MASTG-TEST-0055",
+        "Title":"Finding Sensitive Data in the Keyboard Cache",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-STORAGE\/MASTG-TEST-0055\/"
+    },
+    {
+        "ID":"MASTG-TEST-0056",
+        "Title":"Determining Whether Sensitive Data Is Exposed via IPC Mechanisms",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-STORAGE-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0056\/"
+    },
+    {
+        "ID":"MASTG-TEST-0057",
+        "Title":"Checking for Sensitive Data Disclosed Through the User Interface",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-3",
+        "MASVS v1 IDs":"MSTG-STORAGE-7",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0057\/"
+    },
+    {
+        "ID":"MASTG-TEST-0058",
+        "Title":"Testing Backups for Sensitive Data",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-8",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-STORAGE\/MASTG-TEST-0058\/"
+    },
+    {
+        "ID":"MASTG-TEST-0059",
+        "Title":"Testing Auto-Generated Screenshots for Sensitive Information",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-3",
+        "MASVS v1 IDs":"MSTG-STORAGE-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0059\/"
+    },
+    {
+        "ID":"MASTG-TEST-0060",
+        "Title":"Testing Memory for Sensitive Data",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-10",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-STORAGE\/MASTG-TEST-0060\/"
+    },
+    {
+        "ID":"MASTG-TEST-0061",
+        "Title":"Verifying the Configuration of Cryptographic Standard Algorithms",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CRYPTO-1",
+        "MASVS v1 IDs":"MSTG-CRYPTO-2MSTG-CRYPTO-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CRYPTO\/MASTG-TEST-0061\/"
+    },
+    {
+        "ID":"MASTG-TEST-0062",
+        "Title":"Testing Key Management",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CRYPTO-2",
+        "MASVS v1 IDs":"MSTG-CRYPTO-1MSTG-CRYPTO-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CRYPTO\/MASTG-TEST-0062\/"
+    },
+    {
+        "ID":"MASTG-TEST-0063",
+        "Title":"Testing Random Number Generation",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CRYPTO-1",
+        "MASVS v1 IDs":"MSTG-CRYPTO-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CRYPTO\/MASTG-TEST-0063\/"
+    },
+    {
+        "ID":"MASTG-TEST-0064",
+        "Title":"Testing Local Authentication",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-AUTH-2",
+        "MASVS v1 IDs":"MSTG-AUTH-8MSTG-STORAGE-11",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-AUTH\/MASTG-TEST-0064\/"
+    },
+    {
+        "ID":"MASTG-TEST-0065",
+        "Title":"Testing Data Encryption on the Network",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-NETWORK-1",
+        "MASVS v1 IDs":"MSTG-NETWORK-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-NETWORK\/MASTG-TEST-0065\/"
+    },
+    {
+        "ID":"MASTG-TEST-0066",
+        "Title":"Testing the TLS Settings",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-NETWORK-1",
+        "MASVS v1 IDs":"MSTG-NETWORK-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-NETWORK\/MASTG-TEST-0066\/"
+    },
+    {
+        "ID":"MASTG-TEST-0067",
+        "Title":"Testing Endpoint Identity Verification",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-NETWORK-1",
+        "MASVS v1 IDs":"MSTG-NETWORK-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-NETWORK\/MASTG-TEST-0067\/"
+    },
+    {
+        "ID":"MASTG-TEST-0068",
+        "Title":"Testing Custom Certificate Stores and Certificate Pinning",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-NETWORK-2",
+        "MASVS v1 IDs":"MSTG-NETWORK-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-NETWORK\/MASTG-TEST-0068\/"
+    },
+    {
+        "ID":"MASTG-TEST-0069",
+        "Title":"Testing App Permissions",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0069\/"
+    },
+    {
+        "ID":"MASTG-TEST-0070",
+        "Title":"Testing Universal Links",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0070\/"
+    },
+    {
+        "ID":"MASTG-TEST-0071",
+        "Title":"Testing UIActivity Sharing",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0071\/"
+    },
+    {
+        "ID":"MASTG-TEST-0072",
+        "Title":"Testing App Extensions",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0072\/"
+    },
+    {
+        "ID":"MASTG-TEST-0073",
+        "Title":"Testing UIPasteboard",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0073\/"
+    },
+    {
+        "ID":"MASTG-TEST-0075",
+        "Title":"Testing Custom URL Schemes",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0075\/"
+    },
+    {
+        "ID":"MASTG-TEST-0076",
+        "Title":"Testing iOS WebViews",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-2",
+        "MASVS v1 IDs":"MSTG-PLATFORM-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0076\/"
+    },
+    {
+        "ID":"MASTG-TEST-0077",
+        "Title":"Testing WebView Protocol Handlers",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-2",
+        "MASVS v1 IDs":"MSTG-PLATFORM-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0077\/"
+    },
+    {
+        "ID":"MASTG-TEST-0078",
+        "Title":"Determining Whether Native Methods Are Exposed Through WebViews",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-PLATFORM-2",
+        "MASVS v1 IDs":"MSTG-PLATFORM-7",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-PLATFORM\/MASTG-TEST-0078\/"
+    },
+    {
+        "ID":"MASTG-TEST-0079",
+        "Title":"Testing Object Persistence",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-PLATFORM-8",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CODE\/MASTG-TEST-0079\/"
+    },
+    {
+        "ID":"MASTG-TEST-0080",
+        "Title":"Testing Enforced Updating",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CODE-2",
+        "MASVS v1 IDs":"MSTG-ARCH-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CODE\/MASTG-TEST-0080\/"
+    },
+    {
+        "ID":"MASTG-TEST-0081",
+        "Title":"Making Sure that the App Is Properly Signed",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-2",
+        "MASVS v1 IDs":"MSTG-CODE-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0081\/"
+    },
+    {
+        "ID":"MASTG-TEST-0082",
+        "Title":"Testing whether the App is Debuggable",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-4",
+        "MASVS v1 IDs":"MSTG-CODE-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0082\/"
+    },
+    {
+        "ID":"MASTG-TEST-0083",
+        "Title":"Testing for Debugging Symbols",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-3",
+        "MASVS v1 IDs":"MSTG-CODE-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0083\/"
+    },
+    {
+        "ID":"MASTG-TEST-0084",
+        "Title":"Testing for Debugging Code and Verbose Error Logging",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-3",
+        "MASVS v1 IDs":"MSTG-CODE-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0084\/"
+    },
+    {
+        "ID":"MASTG-TEST-0085",
+        "Title":"Checking for Weaknesses in Third Party Libraries",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CODE-3",
+        "MASVS v1 IDs":"MSTG-CODE-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CODE\/MASTG-TEST-0085\/"
+    },
+    {
+        "ID":"MASTG-TEST-0086",
+        "Title":"Memory Corruption Bugs",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-CODE-8",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CODE\/MASTG-TEST-0086\/"
+    },
+    {
+        "ID":"MASTG-TEST-0087",
+        "Title":"Make Sure That Free Security Features Are Activated",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-CODE-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-CODE\/MASTG-TEST-0087\/"
+    },
+    {
+        "ID":"MASTG-TEST-0088",
+        "Title":"Testing Jailbreak Detection",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-1",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0088\/"
+    },
+    {
+        "ID":"MASTG-TEST-0089",
+        "Title":"Testing Anti-Debugging Detection",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-4",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0089\/"
+    },
+    {
+        "ID":"MASTG-TEST-0090",
+        "Title":"Testing File Integrity Checks",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-2",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-3MSTG-RESILIENCE-11",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0090\/"
+    },
+    {
+        "ID":"MASTG-TEST-0091",
+        "Title":"Testing Reverse Engineering Tools Detection",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-4",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0091\/"
+    },
+    {
+        "ID":"MASTG-TEST-0092",
+        "Title":"Testing Emulator Detection",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-1",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0092\/"
+    },
+    {
+        "ID":"MASTG-TEST-0093",
+        "Title":"Testing Obfuscation",
+        "Platform":"iOS",
+        "MASVS v2 ID":"MASVS-RESILIENCE-3",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/ios\/MASVS-RESILIENCE\/MASTG-TEST-0093\/"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "ID":"MASTG-TEST-0001",
+        "Title":"Testing Local Storage for Sensitive Data",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-1",
+        "MASVS v1 IDs":"MSTG-STORAGE-1MSTG-STORAGE-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0001\/"
+    },
+    {
+        "ID":"MASTG-TEST-0002",
+        "Title":"Testing Local Storage for Input Validation",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-PLATFORM-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0002\/"
+    },
+    {
+        "ID":"MASTG-TEST-0003",
+        "Title":"Testing Logs for Sensitive Data",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0003\/"
+    },
+    {
+        "ID":"MASTG-TEST-0004",
+        "Title":"Determining Whether Sensitive Data Is Shared with Third Parties via Embedded Services",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0004\/"
+    },
+    {
+        "ID":"MASTG-TEST-0005",
+        "Title":"Determining Whether Sensitive Data Is Shared with Third Parties via Notifications",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0005\/"
+    },
+    {
+        "ID":"MASTG-TEST-0006",
+        "Title":"Determining Whether the Keyboard Cache Is Disabled for Text Input Fields",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0006\/"
+    },
+    {
+        "ID":"MASTG-TEST-0007",
+        "Title":"Determining Whether Sensitive Stored Data Has Been Exposed via IPC Mechanisms",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-STORAGE-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0007\/"
+    },
+    {
+        "ID":"MASTG-TEST-0008",
+        "Title":"Checking for Sensitive Data Disclosure Through the User Interface",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-3",
+        "MASVS v1 IDs":"MSTG-STORAGE-7",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0008\/"
+    },
+    {
+        "ID":"MASTG-TEST-0009",
+        "Title":"Testing Backups for Sensitive Data",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-8",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0009\/"
+    },
+    {
+        "ID":"MASTG-TEST-0010",
+        "Title":"Finding Sensitive Information in Auto-Generated Screenshots",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-3",
+        "MASVS v1 IDs":"MSTG-STORAGE-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0010\/"
+    },
+    {
+        "ID":"MASTG-TEST-0011",
+        "Title":"Testing Memory for Sensitive Data",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-2",
+        "MASVS v1 IDs":"MSTG-STORAGE-10",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0011\/"
+    },
+    {
+        "ID":"MASTG-TEST-0012",
+        "Title":"Testing the Device-Access-Security Policy",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-STORAGE-1",
+        "MASVS v1 IDs":"MSTG-STORAGE-11",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-STORAGE\/MASTG-TEST-0012\/"
+    },
+    {
+        "ID":"MASTG-TEST-0013",
+        "Title":"Testing Symmetric Cryptography",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CRYPTO-1",
+        "MASVS v1 IDs":"MSTG-CRYPTO-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CRYPTO\/MASTG-TEST-0013\/"
+    },
+    {
+        "ID":"MASTG-TEST-0014",
+        "Title":"Testing the Configuration of Cryptographic Standard Algorithms",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CRYPTO-1",
+        "MASVS v1 IDs":"MSTG-CRYPTO-2MSTG-CRYPTO-3MSTG-CRYPTO-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CRYPTO\/MASTG-TEST-0014\/"
+    },
+    {
+        "ID":"MASTG-TEST-0015",
+        "Title":"Testing the Purposes of Keys",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CRYPTO-2",
+        "MASVS v1 IDs":"MSTG-CRYPTO-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CRYPTO\/MASTG-TEST-0015\/"
+    },
+    {
+        "ID":"MASTG-TEST-0016",
+        "Title":"Testing Random Number Generation",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CRYPTO-1",
+        "MASVS v1 IDs":"MSTG-CRYPTO-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CRYPTO\/MASTG-TEST-0016\/"
+    },
+    {
+        "ID":"MASTG-TEST-0017",
+        "Title":"Testing Confirm Credentials",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-AUTH-2",
+        "MASVS v1 IDs":"MSTG-AUTH-1MSTG-STORAGE-11",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-AUTH\/MASTG-TEST-0017\/"
+    },
+    {
+        "ID":"MASTG-TEST-0018",
+        "Title":"Testing Biometric Authentication",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-AUTH-2",
+        "MASVS v1 IDs":"MSTG-AUTH-8",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-AUTH\/MASTG-TEST-0018\/"
+    },
+    {
+        "ID":"MASTG-TEST-0019",
+        "Title":"Testing Data Encryption on the Network",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-NETWORK-1",
+        "MASVS v1 IDs":"MSTG-NETWORK-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-NETWORK\/MASTG-TEST-0019\/"
+    },
+    {
+        "ID":"MASTG-TEST-0020",
+        "Title":"Testing the TLS Settings",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-NETWORK-1",
+        "MASVS v1 IDs":"MSTG-NETWORK-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-NETWORK\/MASTG-TEST-0020\/"
+    },
+    {
+        "ID":"MASTG-TEST-0021",
+        "Title":"Testing Endpoint Identify Verification",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-NETWORK-1",
+        "MASVS v1 IDs":"MSTG-NETWORK-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-NETWORK\/MASTG-TEST-0021\/"
+    },
+    {
+        "ID":"MASTG-TEST-0022",
+        "Title":"Testing Custom Certificate Stores and Certificate Pinning",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-NETWORK-2",
+        "MASVS v1 IDs":"MSTG-NETWORK-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-NETWORK\/MASTG-TEST-0022\/"
+    },
+    {
+        "ID":"MASTG-TEST-0023",
+        "Title":"Testing the Security Provider",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-NETWORK-1",
+        "MASVS v1 IDs":"MSTG-NETWORK-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-NETWORK\/MASTG-TEST-0023\/"
+    },
+    {
+        "ID":"MASTG-TEST-0024",
+        "Title":"Testing for App Permissions",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0024\/"
+    },
+    {
+        "ID":"MASTG-TEST-0025",
+        "Title":"Testing for Injection Flaws",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-PLATFORM-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0025\/"
+    },
+    {
+        "ID":"MASTG-TEST-0026",
+        "Title":"Testing Implicit Intents",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-PLATFORM-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0026\/"
+    },
+    {
+        "ID":"MASTG-TEST-0027",
+        "Title":"Testing for URL Loading in WebViews",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-PLATFORM-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0027\/"
+    },
+    {
+        "ID":"MASTG-TEST-0028",
+        "Title":"Testing Deep Links",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0028\/"
+    },
+    {
+        "ID":"MASTG-TEST-0029",
+        "Title":"Testing for Sensitive Functionality Exposure Through IPC",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0029\/"
+    },
+    {
+        "ID":"MASTG-TEST-0030",
+        "Title":"Testing for Vulnerable Implementation of PendingIntent",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-1",
+        "MASVS v1 IDs":"MSTG-PLATFORM-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0030\/"
+    },
+    {
+        "ID":"MASTG-TEST-0031",
+        "Title":"Testing JavaScript Execution in WebViews",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-2",
+        "MASVS v1 IDs":"MSTG-PLATFORM-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0031\/"
+    },
+    {
+        "ID":"MASTG-TEST-0032",
+        "Title":"Testing WebView Protocol Handlers",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-2",
+        "MASVS v1 IDs":"MSTG-PLATFORM-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0032\/"
+    },
+    {
+        "ID":"MASTG-TEST-0033",
+        "Title":"Testing for Java Objects Exposed Through WebViews",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-2",
+        "MASVS v1 IDs":"MSTG-PLATFORM-7",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0033\/"
+    },
+    {
+        "ID":"MASTG-TEST-0034",
+        "Title":"Testing Object Persistence",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-PLATFORM-8",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0034\/"
+    },
+    {
+        "ID":"MASTG-TEST-0035",
+        "Title":"Testing for Overlay Attacks",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-3",
+        "MASVS v1 IDs":"MSTG-PLATFORM-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0035\/"
+    },
+    {
+        "ID":"MASTG-TEST-0036",
+        "Title":"Testing Enforced Updating",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-2",
+        "MASVS v1 IDs":"MSTG-ARCH-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0036\/"
+    },
+    {
+        "ID":"MASTG-TEST-0037",
+        "Title":"Testing WebViews Cleanup",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-PLATFORM-2",
+        "MASVS v1 IDs":"MSTG-PLATFORM-10",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-PLATFORM\/MASTG-TEST-0037\/"
+    },
+    {
+        "ID":"MASTG-TEST-0038",
+        "Title":"Making Sure that the App is Properly Signed",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-2",
+        "MASVS v1 IDs":"MSTG-CODE-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0038\/"
+    },
+    {
+        "ID":"MASTG-TEST-0039",
+        "Title":"Testing whether the App is Debuggable",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-4",
+        "MASVS v1 IDs":"MSTG-CODE-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0039\/"
+    },
+    {
+        "ID":"MASTG-TEST-0040",
+        "Title":"Testing for Debugging Symbols",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-3",
+        "MASVS v1 IDs":"MSTG-CODE-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0040\/"
+    },
+    {
+        "ID":"MASTG-TEST-0041",
+        "Title":"Testing for Debugging Code and Verbose Error Logging",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-3",
+        "MASVS v1 IDs":"MSTG-CODE-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0041\/"
+    },
+    {
+        "ID":"MASTG-TEST-0042",
+        "Title":"Checking for Weaknesses in Third Party Libraries",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-3",
+        "MASVS v1 IDs":"MSTG-CODE-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0042\/"
+    },
+    {
+        "ID":"MASTG-TEST-0043",
+        "Title":"Memory Corruption Bugs",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-CODE-8",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0043\/"
+    },
+    {
+        "ID":"MASTG-TEST-0044",
+        "Title":"Make Sure That Free Security Features Are Activated",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-CODE-4",
+        "MASVS v1 IDs":"MSTG-CODE-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-CODE\/MASTG-TEST-0044\/"
+    },
+    {
+        "ID":"MASTG-TEST-0045",
+        "Title":"Testing Root Detection",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-1",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-1",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0045\/"
+    },
+    {
+        "ID":"MASTG-TEST-0046",
+        "Title":"Testing Anti-Debugging Detection",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-4",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-2",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0046\/"
+    },
+    {
+        "ID":"MASTG-TEST-0047",
+        "Title":"Testing File Integrity Checks",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-2",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-3",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0047\/"
+    },
+    {
+        "ID":"MASTG-TEST-0048",
+        "Title":"Testing Reverse Engineering Tools Detection",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-4",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-4",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0048\/"
+    },
+    {
+        "ID":"MASTG-TEST-0049",
+        "Title":"Testing Emulator Detection",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-1",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-5",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0049\/"
+    },
+    {
+        "ID":"MASTG-TEST-0050",
+        "Title":"Testing Runtime Integrity Checks",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-2",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-6",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0050\/"
+    },
+    {
+        "ID":"MASTG-TEST-0051",
+        "Title":"Testing Obfuscation",
+        "Platform":"Android",
+        "MASVS v2 ID":"MASVS-RESILIENCE-3",
+        "MASVS v1 IDs":"MSTG-RESILIENCE-9",
+        "Link":"https:\/\/mas.owasp.org\/MASTG\/tests\/android\/MASVS-RESILIENCE\/MASTG-TEST-0051\/"
+    }
+]
